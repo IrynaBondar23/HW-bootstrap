@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap");
+
+body {
+  color: white;
+}
+
+.navbar-nav .dropdown-menu {
+  right: 0;
+  left: auto;
+}
+.dropdown-item:hover {
+  background-color: grey;
+}
+.navbar-brand {
+  font-family: "Jacquard 12", system-ui;
+  font-size: 54px;
+}
+.modal-content form {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
